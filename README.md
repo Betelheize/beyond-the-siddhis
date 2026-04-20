@@ -1,2 +1,1 @@
-# beyond-the-siddhis
-A psychological and philosophical analysis of the supernatural powers in Patanjali's Yoga Sutras, based on John McAfee's book "Beyond the Siddhis."
+This repository contains text and resources related to Beyond the Siddhis: Supernatural Powers and the Sutras of Patanjali by John McAfee. The book offers a profound reinterpretation of the Yoga Sutras, arguing that the pursuit of magical powers (Siddhis) is an ego-driven distraction. Instead, it redefines these attainments as psychological metaphors for self-awareness, the trap of endless "becoming," and the importance of living fully in the present moment.
